@@ -1,0 +1,39 @@
+body{
+    background-image: url(neom-wTmGtmGQCjQ-unsplash.jpg);
+    background-size: cover;
+}
+.div{
+    text-decoration-line: overline underline;
+    text-align: center;
+    font-size: 5em;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    color: antiquewhite;
+    background-color: ;
+    border-radius: 15px;
+}
+.div2 ul{
+    text-align: center;
+    text-overflow: ellipsis;
+}
+.div2 ul li{
+    list-style: none;
+    display: inline-block;
+}
+.div2 ul li a{
+    display: block;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #fff;
+    letter-spacing: 5px;
+    font-weight: 600;
+    padding: 30px;
+    transition: all ease 0.5s;
+}
+.div2 ul li a:hover{
+    background-color: #211b4387;
+}
+nav{
+    background-color: rgba(0,0,0,0.2);;
+}
